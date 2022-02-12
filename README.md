@@ -19,9 +19,9 @@
  <a href="https://github.com/nenalukic/robofriends">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=robofriends" />
 </a>
-  <img width="400" src="https://raw.githubusercontent.com/nenalukic/todo-list-local/main/images/todo-list-app.png" />
- <a href="https://github.com/nenalukic/todo-list-local">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=todo-list-local" />
+  <img width="400" src="https://raw.githubusercontent.com/nenalukic/blog-with-mongodb/main/images/mongo-blog-1.png" />
+ <a href="https://github.com/nenalukic/blog-with-mongodb">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=blog-with-mongodb" />
 </a>
 </a>
   <img width="400" src="https://raw.githubusercontent.com/nenalukic/newsletter-signup/main/images/newsletter-signup-app.png" />
@@ -35,4 +35,4 @@
 Timezone: Europe/Stockholm (CEST)
 </p>
 <br />
-<p>My latest project is called "Smart Brain Facerecognition". That is a Capstone project using React, from fantastic Web Development course "The Complete Web Developer: Zero to mastery" by Andrei Neagoie at Udemy. This application is using image recognition AI service from "Clarifai.com".</p>
+<p>My latest project is called "Smart Brain face recognition". That is a final project using React, from fantastic Web Development course "The Complete Web Developer: Zero to mastery" by Andrei Neagoie at Udemy. This application is using image recognition AI service from "Clarifai.com".</p>
