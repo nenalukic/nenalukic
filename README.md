@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center">Aspiring Web Developer since 2020. Enjoys developing in JavaScript, React, Node.js and HTML.</p>
+<p align="center">Data Engineer since 2022. Aspiring Web Developer since 2020. Enjoys developing Python, JavaScript, Power BI and SQL.</p>
 <br />
 
 <p>
