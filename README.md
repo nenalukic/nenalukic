@@ -38,27 +38,27 @@ Timezone: Europe/Stockholm (CEST)
 
 <p align="center">
 <a href="https://github.com/nenalukic/python-etl-project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=python-etl-project" />
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=python-etl-project" />
 </a>
 <a href="https://github.com/nenalukic/titanic-kaggle-final-project">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=titanic-kaggle-final-project" />
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=titanic-kaggle-final-project" />
 </a>
   <img width="400" src="https://github.com/nenalukic/keeper-app-react/blob/main/images/keeper-app.png" />
  <a href="https://github.com/nenalukic/keeper-app-react">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=keeper-app-react" />
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=keeper-app-react" />
 </a>
   <img width="400" src="https://github.com/nenalukic/robofriends/blob/master/images/robofriends-app.png" />
  <a href="https://github.com/nenalukic/robofriends">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=robofriends" />
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=robofriends" />
 </a>
   <img width="400" src="https://raw.githubusercontent.com/nenalukic/blog-with-mongodb/main/images/mongo-blog-1.png" />
  <a href="https://github.com/nenalukic/blog-with-mongodb">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=blog-with-mongodb" />
+  <img align="" src="hhttps://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=blog-with-mongodb" />
 </a>
 </a>
   <img width="400" src="https://raw.githubusercontent.com/nenalukic/newsletter-signup/main/images/newsletter-signup-app.png" />
  <a href="https://github.com/nenalukic/newsletter-signup">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=nenalukic&repo=newsletter-signup" />
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=newsletter-signup" />
 </a>
 </p>
 
