@@ -29,7 +29,7 @@
 <br />
 
 <p align="center">
-Timezone: Europe/Stockholm (CEST)
+Timezone: Europe/Madrid (CEST)
 </p>
 <br />
 
@@ -37,33 +37,42 @@ Timezone: Europe/Stockholm (CEST)
 <br />
 
 <p align="center">
+<a href="https://github.com/nenalukic/final-project-NYC-payroll">
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=final-project-NYC-payroll" />
+</a>
+<a href="https://github.com/nenalukic/udacity_bike_share_dwh_project">
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=udacity_bike_share_dwh_project" />
+</a>
+<a href="https://github.com/nenalukic/udacity_bike_share_datalake_project">
+  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=udacity_bike_share_datalake_project" />
+</a>
 <a href="https://github.com/nenalukic/python-etl-project">
   <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=python-etl-project" />
 </a>
 <a href="https://github.com/nenalukic/titanic-kaggle-final-project">
   <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=titanic-kaggle-final-project" />
 </a>
-  <img width="400" src="https://github.com/nenalukic/keeper-app-react/blob/main/images/keeper-app.png" />
- <a href="https://github.com/nenalukic/keeper-app-react">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=keeper-app-react" />
-</a>
-  <img width="400" src="https://github.com/nenalukic/robofriends/blob/master/images/robofriends-app.png" />
- <a href="https://github.com/nenalukic/robofriends">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=robofriends" />
-</a>
-  <img width="400" src="https://raw.githubusercontent.com/nenalukic/blog-with-mongodb/main/images/mongo-blog-1.png" />
- <a href="https://github.com/nenalukic/blog-with-mongodb">
-  <img align="" src="hhttps://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=blog-with-mongodb" />
-</a>
-</a>
-  <img width="400" src="https://raw.githubusercontent.com/nenalukic/newsletter-signup/main/images/newsletter-signup-app.png" />
- <a href="https://github.com/nenalukic/newsletter-signup">
-  <img align="" src="https://readme-stats.clckblog.space/api/pin/?username=nenalukic&repo=newsletter-signup" />
-</a>
 </p>
 
 <h2 align="center">Latest projects</h2>
 <br />
-<p>My latest project is "Weather Data ETL Pipeline" with Python and Apache Airflow that retrieves weather data from the OpenWeatherMap API, stores it in a PostgreSQL database, and uses Apache Airflow for orchestration. It was also fun and exciting to participate in Kaggle "Titanic" competition with my team from AW. 
+<p>My latest achivement is finishing Udacity program for Data Engineer with Microsoft Azure. In this program we had several very interesting projects.
 
-One of my favorite projects is called "Smart Brain face recognition". That is a final project using React, from fantastic Web Development course "The Complete Web Developer: Zero to mastery" by Andrei Neagoie at Udemy. This application is using image recognition AI service from "Clarifai.com".</p>
+Project 1: Create Data Warehouse for Bike share business in the Azure cloud, with Postgres database and develop ETL with Azure Synapse.
+
+Project 2: We extended previous project to develop a data lake solution using Azure Databricks and lake house architecture.
+
+Project 3: This was a final capstone project. The business problem we were solving was to analyze how the New York City's financial resources are allocated and how much of the City's budget is being devoted to overtime.
+
+We used following technologies to solve this problem:
+- Azure Data Lake Gen2
+- Azure SQL DB
+- Azure Data Factory
+- Azure Synapse Analytics
+
+
+One of my other favorite projects is called "Weather Data ETL Pipeline" with Python and Apache Airflow that retrieves weather data from the OpenWeatherMap API, stores it in a PostgreSQL database, and uses Apache Airflow for orchestration. 
+
+It was also fun and exciting to participate in Kaggle "Titanic" competition with my team from AW. 
+
+</p>
